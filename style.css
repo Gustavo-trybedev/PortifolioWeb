@@ -1,0 +1,171 @@
+    body {
+    color: rgb(45, 35, 39);
+    background-color: rgb(188, 237, 246);
+    font-family: 'Josefin Sans', sans-serif;  
+
+    }
+
+    div {
+    font-family: 'Josefin Sans', sans-serif;
+    }
+
+    h1 {
+    background-color: rgb(50, 14, 59);
+    color:aliceblue;
+    font-size: 1.2em;
+    }
+
+    h2 {
+    color: rgb(45, 35, 39);
+
+    }
+
+    h3 {
+    color: rgb(45, 35, 39);
+    font-size: 23px;
+
+    }
+
+    h4 {
+    background-color: rgb(146, 213, 230);
+    }
+    
+    #Foto {
+    background-color: rgb(146, 213, 230);
+
+    }
+
+    #Nome {   
+    font-size: 40px;
+    margin-bottom: 2%;
+    margin-left: 195px;
+    
+    }
+
+    #Descrição {
+    background-color: rgb(146, 213, 230);
+    color:rgb(45, 35, 39);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    
+    }
+
+    #Habilidades {
+    background-color: rgb(50, 14, 59);
+    color:aliceblue;
+    
+    }
+
+    #Links {
+    background-color: rgb(50, 14, 59);
+    color:aliceblue;
+
+    }
+
+    .listStyle{
+    background-color: rgb(146, 213, 230);
+    font-size: 22px;
+    line-height: 115%;
+
+    }
+
+    .picture {
+    border-radius: 100%;
+    margin-left: 250px;
+    position:static;
+    width: 400px;
+    
+
+    }
+
+    .button {
+    background-color: #11a36a;
+    color: white;
+    font-size: 16px;
+    line-height: 100px;
+    font-weight: 700;
+    padding: 14px 13px;
+    border-radius: 8%;
+    text-decoration: none;
+
+    }
+
+    .button2 {
+    background-color: #0e76a8;
+    color: white;
+    font-size: 16px;
+    line-height: 90px;
+    font-weight: 700;
+    padding: 14px 13px;
+    border-radius: 8%;
+    text-decoration: none;
+
+    }
+    
+    .button3 {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    line-height: 90px;
+    font-weight: 700;
+    padding: 14px 13px;
+    border-radius: 8%;
+    text-decoration: none;
+
+    }
+
+    .button4 {
+    background-color: #0e76a8;
+    color: white;
+    font-size: 16px;
+    line-height: 90px;
+    font-weight: 700;
+    padding: 14px 13px;
+    border-radius: 8%;
+    text-decoration: none;
+
+    }
+
+    .button5 {
+    background-color: #c4302b;
+    color: white;
+    font-size: 16px;
+    line-height: 90px;
+    font-weight: 700;
+    padding: 14px 13px;
+    border-radius: 8%;
+    text-decoration: none;
+
+    }
+
+    .paragrafo{
+    width: 40%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-left: 15px;
+              
+    }
+
+    .listas {
+    width: 48%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-left: 15px;
+
+    }
+
+    .links2 {
+        width: 48%;
+        margin-left: 15px;
+        position: absolute;
+        top: 841px;
+        left: 1180px;
+    }
+
+    .masterbutton{
+        width: 17%;
+        display: inline-block;
+        text-align: center;
+        margin-left: 15px;
+        margin-bottom: 5px;
+    }
