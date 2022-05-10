@@ -61,6 +61,8 @@
     #Links {
     background-color: rgb(50, 14, 59);
     color:aliceblue;
+    width: 48%;
+    margin-left: 15px;
 
     }
 
@@ -162,14 +164,17 @@
     .links2 {
     width: 48%;
     margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
     
     }
 
     .masterbutton{
-    width: 17%;
-    display: inline-block;
+    width: 25%;
     text-align: center;
-    margin-left: 15px;
+    margin-left: 5px;
     margin-bottom: 5px;
     }
 
