@@ -12,7 +12,7 @@
     h1 {
     background-color: rgb(50, 14, 59);
     color:aliceblue;
-    font-size: 1.2em;
+    font-size: 23px;
     }
 
     h2 {
@@ -36,9 +36,10 @@
     }
 
     #Nome {   
-    font-size: 40px;
+    font-size: 60px;
     margin-bottom: 2%;
-    margin-left: 195px;
+ 
+    text-align: center;
     
     }
 
@@ -47,6 +48,7 @@
     color:rgb(45, 35, 39);
     font-family: 'Josefin Sans', sans-serif;
     font-size: 22px;
+    margin:auto;
     
     }
 
@@ -71,9 +73,10 @@
 
     .picture {
     border-radius: 100%;
-    margin-left: 250px;
+    margin-left: 320px;
     position:static;
     width: 400px;
+    padding: 15px 15px 15px;
     
 
     }
@@ -138,11 +141,13 @@
 
     }
 
-    .paragrafo{
-    width: 40%;
+    .paragrafo {
+    width: 48%;
     overflow-y: auto;
     overflow-x: hidden;
-    margin-left: 15px;
+    position: absolute;
+    left: 1000px;
+    top: 300px;
               
     }
 
@@ -155,17 +160,28 @@
     }
 
     .links2 {
-        width: 48%;
-        margin-left: 15px;
-        position: absolute;
-        top: 841px;
-        left: 1180px;
+    width: 48%;
+    margin-left: 15px;
+    
     }
 
     .masterbutton{
-        width: 17%;
-        display: inline-block;
-        text-align: center;
-        margin-left: 15px;
-        margin-bottom: 5px;
+    width: 17%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    }
+
+    .index{    
+    width: 48%;
+    margin-left: 11px;
+    font-size: 20px;
+    padding: 5px 5px 5px;
+
+    }
+
+    .img{
+    width: 35%;
+    
     }
